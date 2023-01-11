@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+#comment
 # This script is meant to be run on Unix/Linux based systems
 set -e
 
